@@ -9,11 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## This is a markdown filegit remote add origin https://github.com/HassaneinSater/datasciemcecoursera.git
-git branch -M main
-git push -u origin maingit remote add origin https://github.com/HassaneinSater/datasciemcecoursera.git
-git branch -M main
-git push -u origin main
+## This is a markdown file
+
 
 ## R Markdown
 
